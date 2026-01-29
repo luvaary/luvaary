@@ -1,4 +1,4 @@
-# ⊶ hey, i’m **luvaary** (they/them) ⊷
+# ⊶ hey, i’m **luvaary** ⊷
 
 i build **systems**, not just apps. low-level tooling, package managers, and infrastructure are my craft.  
 quiet. sharp. intentional. alive in the shadows.  

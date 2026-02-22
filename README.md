@@ -16,11 +16,42 @@
 ## ⊹ terminal focus ⊹
 
 ```bash
-> hosting & developing Zorvia (FOSS organization)
-> low-level system tooling
-> build systems, installers, infrastructure
+> hosting & leading Zorvia (FOSS organization)
+> building low-level system tooling & infrastructure
 > minimal, melancholic, dark-academia design
 > all code is life, all life is code
+```
+
+───────────────────────────────
+
+## ⊹ live metrics ⊹
+
+```bash
+┌───────────────────────────────┐
+│  LIVE GITHUB METRICS           │
+└───────────────────────────────┘
+```
+
+![GitHub Metrics](https://metrics.lecoq.io/luvaary?template=classic\&base.header=0\&config.timezone=Etc%2FUTC)
+
+───────────────────────────────
+
+## ⊹ animated terminal graphs ⊹
+
+```mermaid
+flowchart LR
+    subgraph Git Metrics
+    A((Commits)) --> B((Active))
+    B --> C((Pull Requests))
+    C --> D((Merged))
+    D --> E((Zorvia Contributions))
+    end
+```
+
+```mermaid
+graph TD
+    C --> Rust --> Python --> Bash --> TypeScript
+    Linux --> systemd --> GH_Actions
 ```
 
 ───────────────────────────────
@@ -30,7 +61,7 @@
 ```bash
 ╔════════════════════════════════╗
 ║  C    Rust    Bash    Python    ║
-║  Linux RPM/DNF systemd GH Actions ║
+║  Linux   systemd   GH Actions   ║
 ╚════════════════════════════════╝
 ```
 
@@ -47,42 +78,7 @@
 ```bash
 > small. sharp. intentional.
 > i exist where code meets silence.
-> i leave traces in the dark.
-> every commit is a heartbeat in the void
-```
-
-───────────────────────────────
-
-## ⊹ live metrics ⊹
-
-```bash
-┌───────────────────────────────┐
-│ GITHUB DASHBOARD               │
-└───────────────────────────────┘
-```
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luvaary\&show_icons=true\&theme=dark\&hide_border=true\&count_private=true\&bg_color=111111\&title_color=00ffcc\&icon_color=00ffcc)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luvaary\&layout=compact\&theme=dark\&hide_border=true)
-
-───────────────────────────────
-
-## ⊹ animated terminal graphs ⊹
-
-```mermaid
-%% live commit streak and contribution graph
-graph LR
-    A[Commits] --> B[Active]
-    B --> C[Pull Requests]
-    C --> D[Issues]
-    D --> E[Zorvia Contributions]
-```
-
-```mermaid
-%% stack evolution
-graph TD
-    C --> Rust --> Python --> Bash --> TypeScript
-    Linux --> systemd --> GH_Actions
+> every commit is a breath in the void.
 ```
 
 ───────────────────────────────
@@ -101,37 +97,8 @@ graph TD
 
 ───────────────────────────────
 
-## ⊹ ultra-glow footer ⊹
-
 ```bash
 > SYSTEM CHECK : OK
-> STATUS       : sharp, shadowed, curious
+> STATUS       : existing
 > USER         : luvaary
-> END OF LINE  : — alive in code, alive in the dark.
-> TYPE `help` FOR MORE.
-```
-
-───────────────────────────────
-
-<style>
-/* Animated gradient text for headings */
-h1, h2, h3, h4 {
-  background: linear-gradient(90deg, #00ffcc, #111111, #00ffcc);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: gradientMove 3s infinite linear;
-}
-
-@keyframes gradientMove {
-  0% { background-position: 0% }
-  100% { background-position: 200% }
-}
-
-/* Glow effect for badges */
-img[alt*="badge"] {
-  filter: drop-shadow(0 0 6px #00ffcc);
-}
-</style>
-
-```
 ```

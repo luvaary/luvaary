@@ -32,7 +32,7 @@
 └───────────────────────────────┘
 ```
 
-![GitHub Metrics](https://metrics.lecoq.io/luvaary?template=classic\&base.header=0\&config.timezone=Etc%2FUTC)
+![GitHub Profile Card](https://gh-readme-profile.vercel.app/api?username=luvaary)
 
 ───────────────────────────────
 

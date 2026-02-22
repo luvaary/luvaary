@@ -26,12 +26,6 @@
 
 ## ⊹ live metrics ⊹
 
-```bash
-┌───────────────────────────────┐
-│  LIVE GITHUB METRICS           │
-└───────────────────────────────┘
-```
-
 ![GitHub Profile Card](https://gh-readme-profile.vercel.app/api?username=luvaary)
 
 ───────────────────────────────
